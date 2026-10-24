@@ -13,7 +13,6 @@
 
 Get the tool up and running quickly by executing the cmd in your terminal (MUST ROOT)
 
-'''bash
 # Clone the repository
 git clone https://github.com/HarithBUGbounty/WiFi-attack.git
 
