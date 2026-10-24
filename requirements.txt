@@ -1,0 +1,6 @@
+# WiFi-attack - Core Python Dependencies
+# Coded by harithBUGbounty — keep hacking, stay ethical.
+
+psutil==5.9.8
+netifaces==0.11.0
+colorama==0.4.6
