@@ -20,7 +20,7 @@ git clone https://github.com/HarithBUGbounty/WiFi-attack.git
 cd WiFi-attack
 ============================================================
 # For kali linux user install this module:
-sudo apt update && sudo apt install python3-scapy aircrack-ng wireless-tool hostapd dnsmasq -y
+❗ sudo apt update && sudo apt install python3-scapy aircrack-ng wireless-tool hostapd dnsmasq -y ❗
 
 # Make the setup script executable and run it (Kali-Linux & NetHunter & Termux)
 chmod +x setup.sh && sudo ./setup.sh
