@@ -1,6 +1,6 @@
 # WiFi-attack
-So guys this thing totally shit don't use this garbage because im not doing debugging on this also this my new project so move to new version repository (Wifi-Sploit)
-
+This tool is discontinued by Harith (owner) Because of debugging take long time and also project structure compiler so if you want new WiFi hacking tool go to this
+latest github repository below 
 Get latest repository:
 ```bash
 https://github.com/HarithBUGbounty/Wifi-Sploit.git
