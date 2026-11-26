@@ -5,4 +5,4 @@ Get latest repository:
 ```bash
 https://github.com/HarithBUGbounty/Wifi-Sploit.git
 ```
-ONE MORE MSG. PLEASE DON'T USE WiFi-Attack BECAUSE IT MIGHT HAVE THE HARMFUL ROTTEN CODE THAT MIGHT BE HARMFUL FOR YOU SOFTWARE
+ONE MORE MSG. PLEASE DON'T USE WiFi-Attack BECAUSE IT MIGHT HAVE THE HARMFUL ROTTEN CODE THAT MIGHT BE HARMFUL FOR YOU SOFTWARE, But you can use our latest tool Wifi-Sploit more safer and also advanced
